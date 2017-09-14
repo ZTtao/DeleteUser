@@ -1,0 +1,16 @@
+#Lambda学习项目
+删除User功能
+<h2>输入模板：</h2>
+<pre>
+<code>
+{
+  "baseInfo":{
+	"token":"",
+	"cid":"",
+	"cname":"",
+	"cip":""
+  },
+  "ids":[]
+}
+</code>
+</pre>
